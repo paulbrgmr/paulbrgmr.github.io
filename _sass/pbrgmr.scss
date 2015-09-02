@@ -1,0 +1,31 @@
+body {
+    font-family: "proxima-nova",sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 1em;
+    word-break: break-word;
+    font-size: 1.2em;
+}
+
+// post
+h1, h2, h3, h4, h5, h6, .site-title {
+    font-family: "quatro-slab",serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.post-header {
+    margin-bottom: 20px;
+    h1 {
+        .post-title {
+            font-size: 2em;
+            line-height: 1.1;
+        }
+    }
+}
+
+/*
+a {
+    text-shadow: .05em 0 0 #FFF,-.05em 0 0 #FFF,.15em 0 0 #FFF,-0.15em 0 0 #FFF,.2em 0 0 #FFF,-.2em 0 0 #FFF;
+}
+*/

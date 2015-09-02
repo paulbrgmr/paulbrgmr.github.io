@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Über
 permalink: /about/
 ---
+**Hey**!<br>
+Ich heiße Paul Bergmeir, bin 21 Jahre alt und bin derzeit in der Ausbildung zum Mediengestalter / Frontend Developer.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Um meine Fähigkeit in den Bereichen HTML, CSS (SCSS), JavaScript (jQuery) und PHP zu verbessern baue ich Websites, die mir gut gefallen, nach und passe sie unter Umständen an meine Wünsche an.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Sobald eine Website fertig ist wird lade ich sie hier hoch, beschreibe das was, wie und warum und stelle den Code auf GitHub zur Verfügung.
